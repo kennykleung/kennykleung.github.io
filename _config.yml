@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Kenny Leung
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: Personal blog for musings and things learned on the job.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["kenny", "leung", "blog"]
 
 #
 ###################################
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Kenny Leung
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "MLE @ Twitter Cortex"
+  bio: "[WIP] a place for musings and things learned on the job."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: #kennyleung
   facebook: #username
   google:
     plus: #username
