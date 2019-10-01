@@ -5,7 +5,6 @@ date:   2019-09-30
 categories: [reflection]
 comments: true
 ---
-
 In August, I left my position as a software engineer at Google and decided to embark on a new adventure as an ML engineer at Twitter Cortex.
 
 I feel immensely grateful to have been a Googler for the past 3 years, and especially as my first job out of school. Along the way, I worked alongside many inspiring people and traveled to some new and interesting places. Here are some of the lessons I've distilled from my time at Google.
