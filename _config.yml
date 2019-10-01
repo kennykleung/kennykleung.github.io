@@ -35,9 +35,9 @@ kramdown:
 owner:
   name: Kenny Leung
   avatar: leonids-logo.png
-  job: "MLE @ Twitter Cortex"
-  bio: "[WIP] a place for musings and things learned on the job."
-  email:
+  job: "ML Engineer @ Twitter Cortex"
+  bio: #random thoughts and things learned on the job
+  email: #kennyleungsf@gmail.com
   disqus-shortname:
   twitter: #kennyleung
   facebook: #username
