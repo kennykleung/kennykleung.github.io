@@ -34,12 +34,12 @@ kramdown:
 #
 owner:
   name: Kenny Leung
-  avatar: leonids-logo.png
+  avatar: kennyleung-logo.png
   job: "ML Engineer @ Twitter Cortex"
   bio: #random thoughts and things learned on the job
-  email: #kennyleungsf@gmail.com
+  email: kennyleung.blog@gmail.com
   disqus-shortname:
-  twitter: #kennyleung
+  twitter: kennykleung
   facebook: #username
   google:
     plus: #username
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #kennyleung-su
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: kennykleung
   skype: #username
   xing: #username
   instagram: #username

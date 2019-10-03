@@ -7,7 +7,7 @@ comments: true
 ---
 In August, I left my position as a software engineer at Google and decided to embark on a new adventure as an ML engineer at Twitter Cortex.
 
-I feel immensely grateful to have been a Googler for the past 3 years, and especially as my first job out of school. Along the way, I worked alongside many inspiring people and traveled to some new and interesting places. Here are some of the lessons I've distilled from my time at Google.
+I feel immensely grateful to have been a Googler for the past 3 years, and especially as my first job out of school. Along the way, I worked among many inspiring people and traveled to some new and interesting places. At a high level, here are some of the lessons I've distilled from my time at Google.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ I feel immensely grateful to have been a Googler for the past 3 years, and espec
 * Take regular breaks. <!-- We weren't wired to work for hours uninterrupted (or at least I'm not). Drink water, go on a walk, take a walk and focus on the shallowness and regularity of your breathing. -->
 * Don't overthink or undervalue a simple hello.
 
-I'm really excited to settle into a new & exciting environment and see what other lessons and experiences I pick up along the way!
+I'm excited to settle into a totally new environment and see what other lessons and experiences I pick up along the way!
 
 <!-- Jekyll also offers powerful support for code snippets:
 
